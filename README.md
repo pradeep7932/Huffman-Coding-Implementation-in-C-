@@ -5,6 +5,3 @@ This project is a C++ implementation of the Huffman Coding algorithm for text co
 - Generates prefix-free binary codes for characters.
 - Compresses text into a binary format.
 - Decompresses binary strings back into the original text.
-  Clone this repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
